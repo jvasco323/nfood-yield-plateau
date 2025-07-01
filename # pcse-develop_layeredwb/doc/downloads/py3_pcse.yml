@@ -1,0 +1,21 @@
+name: py3_pcse
+dependencies:
+- sqlalchemy
+- pyyaml
+- numpy
+- pandas
+- python=3.8
+- pytz
+- pyyaml
+- setuptools
+- sphinx
+- sphinx_rtd_theme
+- xlrd
+- openpyxl
+- requests
+- ipython
+- jupyter
+- pip:
+  - traitlets-pcse
+
+
